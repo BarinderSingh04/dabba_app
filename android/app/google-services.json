@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94388731869",
+    "firebase_url": "https://dabba-6aad4.firebaseio.com",
+    "project_id": "dabba-6aad4",
+    "storage_bucket": "dabba-6aad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94388731869:android:5894849d8dca75f267c034",
+        "android_client_info": {
+          "package_name": "com.example.dabba_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94388731869-o2ttve9d217kuqktuusd69dhpo5rp8u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUXMPZFvINx9qWzMgWUYYUCYAwodu2Xjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94388731869-o2ttve9d217kuqktuusd69dhpo5rp8u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
